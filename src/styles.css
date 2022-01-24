@@ -25,6 +25,11 @@ body {
 
 /* layout */
 
+.wrapper {
+  margin: 0 auto;
+  width: 100%;
+}
+
 .area {
   width: 400px;
   padding: 8px;
